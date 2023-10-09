@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/License-MIT-green" alt="License-MIT"/>
     </a>
     <a style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Platform-Win32-blue" alt="Platform-Win32"/>
+        <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="Platform-Win32"/>
     </a>
 </p>
 
@@ -23,9 +23,9 @@
 
 ## 下载
 
-[CodeRainWallpaper.zip]()
+[CodeRainWallpaper_win_x64.zip](https://github.com/zqymoe/CodeRainWallpaper/releases/download/1.0/CodeRainWallpaper_win_x64.zip)
 
-[CodeRainWallpaper.exe]()
+[CodeRainWallpaper_win_x64.exe](https://github.com/zqymoe/CodeRainWallpaper/releases/download/1.0/CodeRainWallpaper_win_x64.exe)
 
 ## 使用
 
